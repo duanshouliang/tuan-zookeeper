@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: tuan-zookeeper
+
+  zookeeper: localhost:2181
+
+server:
+  port: 12080
+  context-path: /zookeeper
+
+
+
